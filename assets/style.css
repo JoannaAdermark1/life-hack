@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
-* .videosection{
+* .videosection {
     float: right;
     margin-left: 915px;
     margin-top: -335px;
@@ -16,16 +16,17 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    /* Generic project styles */
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #d1afaf; 
+    color: #d1afaf;
 }
 
 .hidden-heading {
@@ -56,7 +57,7 @@ header a {
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
 
@@ -120,7 +121,8 @@ main {
     padding-left: 10px;
 }
 
-#cover-text > h2, #cover-text > h3 {
+#cover-text>h2,
+#cover-text>h3 {
     color: #ffffff;
 }
 
@@ -136,8 +138,8 @@ main {
     font-size: 280%;
 }
 
-#tips > div,
-#tips> div {
+#tips>div,
+#tips>div {
     line-height: 20px;
     margin-bottom: 20px;
 }
@@ -276,6 +278,7 @@ main {
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+
     /* Header */
     nav {
         display: block;
@@ -289,7 +292,7 @@ main {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 1rem;
     }
 
@@ -323,12 +326,12 @@ main {
         width: 100%;
     }
 
-    #benefits-physical > div,
-    #benefits-mental > div {
+    #benefits-physical>div,
+    #benefits-mental>div {
         width: 75%;
     }
 
-    #benefits-mental > div {
+    #benefits-mental>div {
         text-align: end;
         align-self: flex-end;
     }
@@ -344,23 +347,25 @@ main {
         width: 100%;
 
     }
-.about-text{
-    height: 10px;
-    font-size: 23px;
-    padding-bottom: 65px;
-    margin-top: 16px;
-    color: #fafafa;
-    background-color: rgb(96, 3, 70);
-    margin-bottom: 57px;
 
-.videosection {
+    .about-text {
+        height: 10px;
+        font-size: 23px;
+        padding-bottom: 65px;
+        margin-top: 16px;
+        color: #fafafa;
+        background-color: rgb(96, 3, 70);
+        margin-bottom: 57px;
 
-    float: right;
-    margin-left: 915px;
-    margin-top: -335px;
-}
+        .videosection {
 
-}
+            float: right;
+            margin-left: 915px;
+            margin-top: -335px;
+        }
+
+    }
+
     .aboutphoto {
         text-align: center;
         background-image: url("../assets/images/folded.jpg");
@@ -369,33 +374,34 @@ main {
         text-align: center;
     }
 
-    .folding{
+    .folding {
         color: rgb(142, 142, 187);
-    font-size: 64px;
-    margin-top: 119px;
+        font-size: 64px;
+        margin-top: 119px;
 
     }
-    .hangingtab{
+
+    .hangingtab {
         color: rgb(142, 142, 187);
-    font-size: 64px;
-    margin-top: 119px;
+        font-size: 64px;
+        margin-top: 119px;
 
-}
+    }
 
-.shelfdivider{
-    color: rgb(142, 142, 187);
-font-size: 64px;
-margin-top: 119px;
+    .shelfdivider {
+        color: rgb(142, 142, 187);
+        font-size: 64px;
+        margin-top: 119px;
 
-}
+    }
 
-.labelstoragebin{
-    color: rgb(142, 142, 187);
-font-size: 64px;
-margin-top: 119px;
+    .labelstoragebin {
+        color: rgb(142, 142, 187);
+        font-size: 64px;
+        margin-top: 119px;
 
 
-}
+    }
 
     /* Form */
     #signup {
@@ -422,20 +428,21 @@ margin-top: 119px;
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
-    #menu a:hover{
+    #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
 
 }
 
-@media screen and (min-width: 1200px) {    
+@media screen and (min-width: 1200px) {
+
     /* Reasons section */
     #benefits {
         display: flex;
         flex-direction: row;
     }
 
-    #benefits > div {
+    #benefits>div {
         flex: 1;
     }
 
@@ -447,11 +454,11 @@ margin-top: 119px;
         order: 1;
     }
 
-    #benefits-mental > div {
+    #benefits-mental>div {
         align-self: flex-start;
     }
 
-    #tips > div {
+    #tips>div {
         align-self: flex-end;
     }
 }

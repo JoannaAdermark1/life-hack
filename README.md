@@ -1,3 +1,46 @@
-# life-hack
-Hey i am building a website of clothes organisation life hack my website comprises of a menu item with support pages. The index page has a banner with a static image and text, it further comprises of support pages and a video to showcase what the website is about. The pages are inter-linked together to give an appealing user experience while browsing the webpages.
+# Clothes Organization Life Hack
 
+This project is a simple website that provides life hacks and tips for organizing your clothes. It includes sections on hanging techniques, labeling, shelf dividers, and more. The website is built using HTML and CSS.
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Features](#features)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Getting Started
+
+To get a copy of this project up and running on your local machine, follow these steps:
+
+1. Clone this repository to your local machine using your preferred method (HTTPS or SSH):
+
+
+2. Open the project directory in your code editor.
+
+3. Open the `index.html` file in your web browser to view the website.
+
+## Features
+
+- Responsive design: The website is responsive and adapts to different screen sizes.
+
+- Navigation menu: The navigation menu is accessible and includes links to different sections of the website.
+
+- Stylish design: The website uses Google Fonts and custom styles to create an appealing and user-friendly interface.
+
+- Tips and life hacks: The website provides valuable tips and life hacks for organizing clothes.
+
+## Usage
+
+Feel free to use this project as a template for your own website or as a reference for creating responsive web pages. You can customize the content, add more sections, or modify the styles to suit your needs.
+
+To make changes to the content or styles, edit the HTML and CSS files in the project directory. You can also add more images or media assets to enhance the website.
+
+## Contributing
+
+Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or create a pull request. Your contributions will help make this project better for everyone.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
