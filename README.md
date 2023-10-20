@@ -7,8 +7,15 @@ This project is a simple website that provides life hacks and tips for organizin
 - [Getting Started](#getting-started)
 - [Features](#features)
 - [Usage](#usage)
+<<<<<<< HEAD
 - [Contributing](#contributing)
 - [License](#license)
+=======
+- [UX-Design](#ux-design)
+- [Contributing](#contributing)
+- [License](#license)
+  
+>>>>>>> origin/HEAD
 
 ## Getting Started
 
@@ -37,6 +44,27 @@ Feel free to use this project as a template for your own website or as a referen
 
 To make changes to the content or styles, edit the HTML and CSS files in the project directory. You can also add more images or media assets to enhance the website.
 
+<<<<<<< HEAD
+=======
+ ## UX-Design 
+ Mobile-First Design: The user experience on mobile devices, start by designing the website layout for smaller screens first. Ensure that the content is legible and well-organized on mobile devices, and then progressively enhance it for larger screens.
+
+Optimize Images: Compress and optimize the images used on the website to reduce loading times. This will improve the overall user experience, 
+
+Accessibility: The website accessible to all users, including those with disabilities. Use semantic HTML elements, provide alt text for images, and ensure proper keyboard navigation.
+
+Consistent Navigation: The website Maintain consistent navigation throughout the website. The navigation menu is easy to find and use. 
+
+Feedback for Form Submission: If a user submits a form, provide clear feedback indicating whether the submission was successful or if there were errors in the form fields. 
+
+Browser Compatibility: Tested the website in multiple web browsers to ensure it works consistently across different platforms. 
+
+Performance Optimization: Optimize your code and assets for performance. Minify CSS and JavaScript files, leverage browser caching, and consider using a Content Delivery Network (CDN) for asset delivery to improve loading times.
+
+Responsive Typography: Implemented responsive typography to adjust font sizes and line spacing based on screen size to ensures that text remains readable on various devices.
+
+
+>>>>>>> origin/HEAD
 ## Contributing
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or create a pull request. Your contributions will help make this project better for everyone.
