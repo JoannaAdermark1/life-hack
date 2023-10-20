@@ -1,5 +1,7 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@
+
+/*import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * .videosection {
@@ -250,8 +252,9 @@ main {
     color: #fafafa;
 }
 
+*/
 /* Footer */
-#social-networks {
+/*#social-networks {
     text-align: center;
     padding: 20px 0;
     display: flex;
@@ -266,7 +269,7 @@ main {
 }
 
 /* Media query: large or landscape phones (576px and up) */
-@media screen and (min-width: 576px) {
+/*@media screen and (min-width: 576px) {
     #photos {
         column-count: 2;
         column-gap: 0;
@@ -274,10 +277,10 @@ main {
 }
 
 /* Media query: tablets and larger (768px and up) */
-@media screen and (min-width: 768px) {
+/*@media screen and (min-width: 768px) {*/
 
-    /* Header */
-    nav {
+/* Header */
+/*nav {
         display: block;
         position: relative;
         box-shadow: none;
@@ -304,19 +307,20 @@ main {
     }
 
     /* Main content */
-    main {
+/* main {
         /* Push main content down to accommodate larger header */
-        margin-top: 79px;
-    }
+margin-top: 79px;
+}
 
-    /* Hero */
-    #cover-text {
+*/
+/* Hero */
+/* #cover-text {
         width: 300px;
         right: 50px;
     }
 
     /* practicl section */
-    #benefits-physical,
+/*#benefits-physical,
     #benefits-mental {
         display: flex;
         flex-direction: column;
@@ -334,7 +338,7 @@ main {
     }
 
     /* section class about us */
-    .aboutus p {
+/*.aboutus p {
         position: absolute;
         color: #252525;
         font-size: 25px;
@@ -401,7 +405,7 @@ main {
     }
 
     /* Form */
-    #signup {
+/* #signup {
         background-position: center;
         position: relative;
     }
@@ -424,7 +428,7 @@ main {
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
-@media screen and (min-width: 992px) {
+/*@media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
@@ -434,7 +438,7 @@ main {
 @media screen and (min-width: 1200px) {
 
     /* Reasons section */
-    #benefits {
+/* #benefits {
         display: flex;
         flex-direction: row;
     }
@@ -458,4 +462,4 @@ main {
     #tips>div {
         align-self: flex-end;
     }
-}
+}*/
