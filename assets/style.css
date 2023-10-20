@@ -92,11 +92,8 @@ nav {
 
 /* Main content */
 main {
-    /* Enlarge main element to push footer down*/
     flex: 1 0 auto;
-    /* Add margin at the top to prevent content from being covered by the header */
     margin-top: 47px;
-    /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
 }
@@ -105,7 +102,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url("../assets/images/clothes.webp.jpg") no-repeat center center/cover;
+    background: url("../assets/images/index.webp") no-repeat center center/cover;
     position: relative;
 }
 
