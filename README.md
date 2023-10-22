@@ -61,8 +61,8 @@ Performance Optimization: Optimize your code and assets for performance. Minify 
 Responsive Typography: Implemented responsive typography to adjust font sizes and line spacing based on screen size to ensures that text remains readable on various devices.
 
 # Languages Used
-HTML
-CSS
+- HTML
+- CSS
 
 # Testing and Responsive Testing
 
