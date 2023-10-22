@@ -27,7 +27,7 @@ h3 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #d1afaf;
+    color: #d6b4a2;
 }
 
 .hidden-heading {
@@ -237,7 +237,6 @@ main {
 /* Style the about-text paragraph */
 .about-text {
     background-color: rgba(60, 60, 60, 0.6);
-    /*background-color: rgba(245, 239, 239, 0.9);*/
     /* Light background color */
     padding: 20px;
     border-radius: 5px;
@@ -260,8 +259,6 @@ main {
         /* Increase font size for larger screens */
     }
 }
-
-
 
 .radio-buttons {
     width: 100%;
@@ -364,3 +361,4 @@ footer {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
     }
+}
