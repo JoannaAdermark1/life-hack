@@ -83,13 +83,17 @@ I confirmed that the colors and fonts are easy to read.
 ### aboutus mobile
 ![Screenshot 2023-10-22 at 21 21 26](https://github.com/JoannaAdermark1/life-hack/assets/137285482/d6474ebf-f2ca-4da6-89e0-6275b29410ed)
 
-### signup mobile
-![Screenshot 2023-10-22 at 21 21 26](https://github.com/JoannaAdermark1/life-hack/assets/137285482/08abda2e-817e-4d95-b5a7-6e14f06b7cc0)
-
 ### signup desktop
 ![Screenshot 2023-10-22 at 21 30 02](https://github.com/JoannaAdermark1/life-hack/assets/137285482/478038b8-b1c1-40ed-960a-f31024c05bbc)
 
+### signup mobile
+![Screenshot 2023-10-22 at 22 38 09](https://github.com/JoannaAdermark1/life-hack/assets/137285482/2d886cd7-2ae0-417c-921f-bc52e8045442)
 
+### home desktop
+![Screenshot 2023-10-22 at 22 41 30](https://github.com/JoannaAdermark1/life-hack/assets/137285482/9fa3b0ad-1834-4249-b1af-fc279998283d)
+
+### home mobile
+![Screenshot 2023-10-22 at 22 41 16](https://github.com/JoannaAdermark1/life-hack/assets/137285482/82801d51-3b16-4ff7-82f2-9eedf0ddf4ba)
 
 ## Contributing
 
