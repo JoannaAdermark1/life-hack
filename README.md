@@ -65,6 +65,31 @@ Responsive Typography: Implemented responsive typography to adjust font sizes an
 - CSS
 
 # Testing and Responsive Testing
+. I tested the website in different browsers chrome,firefox,safari and i confirm that the results are correct.  
+I confirmed that the colors and fonts are easy to read.
+
+## Validator Testing
+### html 
+![Screenshot 2023-10-22 at 21 11 38](https://github.com/JoannaAdermark1/life-hack/assets/137285482/c8e8a73e-291d-4394-aa0b-baa540516700)
+
+### css
+![Screenshot 2023-10-22 at 21 11 17](https://github.com/JoannaAdermark1/life-hack/assets/137285482/13059a66-978b-4c78-8c3e-3d2a99bc7fe0)
+
+## Responsiveness
+
+### aboutus desktop
+![Screenshot 2023-10-22 at 21 18 38](https://github.com/JoannaAdermark1/life-hack/assets/137285482/56e67ff5-f246-4808-990d-b84a6dc6fa99)
+
+### aboutus mobile
+![Screenshot 2023-10-22 at 21 21 26](https://github.com/JoannaAdermark1/life-hack/assets/137285482/d6474ebf-f2ca-4da6-89e0-6275b29410ed)
+
+### signup mobile
+![Screenshot 2023-10-22 at 21 21 26](https://github.com/JoannaAdermark1/life-hack/assets/137285482/08abda2e-817e-4d95-b5a7-6e14f06b7cc0)
+
+### signup desktop
+![Screenshot 2023-10-22 at 21 30 02](https://github.com/JoannaAdermark1/life-hack/assets/137285482/478038b8-b1c1-40ed-960a-f31024c05bbc)
+
+
 
 ## Contributing
 
