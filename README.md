@@ -1,7 +1,7 @@
 # WardrobeWhiz. 
 
 This project is a simple website that provides life hacks and tips for organizing your clothes. It includes sections on hanging techniques, labeling, shelf dividers, and more. The website is built using HTML and CSS.
-![Screenshot 2023-10-20 at 21 11 38](https://github.com/JoannaAdermark1/life-hack/assets/137285482/13669065-5296-4736-a1fa-3866e84eba27)
+![Screenshot 2023-10-22 at 17 47 20](https://github.com/JoannaAdermark1/life-hack/assets/137285482/7ff500b6-0370-466b-abd7-f6d7fbae6179)
 [Link to the Live wetbsite](https://joannaadermark1.github.io/life-hack/) 
 
 ## Table of Contents
