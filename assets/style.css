@@ -234,22 +234,24 @@ main {
     padding: 0 5px;
 }
 
-/* Style the about-text paragraph */
+#aboutus {
+    background-image: url("../assets/images/just-hang.jpg");
+    background-size: cover;
+    background-position: 75%;
+    padding: 40px 10% 0 10%;
+    flex-grow: 1;
+
+}
+
 .about-text {
     background-color: rgba(60, 60, 60, 0.6);
-    /* Light background color */
     padding: 20px;
     border-radius: 5px;
     font-size: 16px;
-    /* Adjust the font size as needed */
     line-height: 1.5;
-    /* Adjust line height for better readability */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    /* Add a subtle shadow */
     margin-top: 20px;
-    /* Add some space at the top */
     color: #333;
-    /* Text color */
 }
 
 /* Style the about-text paragraph on larger screens */
@@ -266,7 +268,6 @@ main {
     justify-content: space-between;
 }
 
-
 .join-button {
     margin-top: 20px;
     border-radius: 2px;
@@ -276,7 +277,6 @@ main {
     color: #fafafa;
 
 }
-
 
 /* Footer Styles */
 footer {
