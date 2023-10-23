@@ -1,6 +1,7 @@
 # WardrobeWhiz. 
 
-This project is a simple website that provides life hacks and tips for organizing your clothes. It includes sections on hanging techniques, labeling, shelf dividers, and more. The website is built using HTML and CSS.
+Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to helping you revolutionize the way you organize your clothes. With innovative life hacks and practical solutions, we aim to simplify your daily life and make the most of your clothing collection.
+
 ![Screenshot 2023-10-22 at 17 47 20](https://github.com/JoannaAdermark1/life-hack/assets/137285482/7ff500b6-0370-466b-abd7-f6d7fbae6179)
 
 [Link to the Live wetbsite](https://joannaadermark1.github.io/life-hack/) 
@@ -28,14 +29,13 @@ To get a copy of this project up and running on local machine, follow these step
 3. Open the `index.html` file in web browser to view the website.
 
 ## Features
+- **Folding Techniques:** Learn how to keep your clothes neatly folded using the KonMari method and other creative approaches. Efficient storage and space-saving techniques are just a click away.
 
-- Responsive design: The website is responsive and adapts to different screen sizes.
+- **Hanging Tab:** Discover the art of using soda can tabs on your hangers to create cascading hangers. Maximize your closet space and prevent clothes from overlapping.
 
-- Navigation menu: The navigation menu is accessible and includes links to different sections of the website.
+- **Shelf Divider:** Explore the use of shelf dividers to separate different types of clothing. This simple trick makes it easy to maintain an organized drawer and prevents clothes from getting mixed up.
 
-- Stylish design: The website uses Google Fonts and custom styles to create an appealing and user-friendly interface.
-
-- Tips and life hacks: The website provides valuable tips and life hacks for organizing clothes.
+- **Label Storage Bin:** Categorize your clothes by type (e.g., shirts, pants, dresses) and use separate bins for each category. With clear containers and labels, identifying your items is a breeze.
 
 ## Usage
 
