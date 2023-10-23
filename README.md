@@ -8,27 +8,32 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
+- [Project-Overview](#project-overview)
 - [Features](#features)
+- [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [UX-Design](#ux-design)
 - [Contributing](#contributing)
 - [License](#license)
-  
 
-## Getting Started
+## Project Overview
+. Navigation: Utilize the navigation menu to access various sections of the WardrobeWhiz website, including "Home," "About Us," "Sign-Up  "Folding Techniques" " Hanging Tab"  "Label Storage Bin" "Shelf Divider."
+. About Us: Learn about the mission and vision of WardrobeWhiz. Discover how we're dedicated to simplifying your life through innovative organization solutions.
+. Signup Form: We offer you the opportunity to stay updated with the latest clothing organization hacks. Sign up and receive regular updates in your inbox.
+. Sign-Up Form: The main feature of this page is the sign-up form. Users can provide their first name, last name, and email address to join the WardrobeWhiz community.
+. Folding Techniques: Learn about different folding techniques that can help you keep your clothes organized, save space, and make them easily accessible.
+. Examples: Explore visual examples of clothes folded using these techniques to understand how they can benefit you in your daily life.
+. Hanging Technique: Learn about the hanging tab technique and how it can help you create cascading hangers and maximize closet space.
+. Examples: Explore visual examples of clothes hung with hanging tabs to understand how this method can help you keep your clothes organized.
+. Labeling Technique: Learn about the labeling technique and how it can be a valuable tool in managing your clothes effectively.
+. Examples: Explore examples of labeled storage bins and how they can be used to categorize and organize different types of clothing.
+. Shelf Divider Techniques: Learn various techniques for using shelf dividers to separate and organize different types of clothing. These techniques can help you maintain an organized drawer and prevent clothes from getting mixed up.
+. Shelf Divider Examples: Explore examples of how shelf dividers can be applied in real-life wardrobe situations. These images showcase the effectiveness of this organization method.
 
-To get a copy of this project up and running on local machine, follow these steps:
-
-1. Clone this repository to local machine.
-
-2. Open the project directory in code editor.
-
-3. Open the `index.html` file in web browser to view the website.
 
 ## Features
+
 - **Folding Techniques:** Learn how to keep your clothes neatly folded using the KonMari method and other creative approaches. Efficient storage and space-saving techniques are just a click away.
 
 - **Hanging Tab:** Discover the art of using soda can tabs on your hangers to create cascading hangers. Maximize your closet space and prevent clothes from overlapping.
@@ -37,7 +42,35 @@ To get a copy of this project up and running on local machine, follow these step
 
 - **Label Storage Bin:** Categorize your clothes by type (e.g., shirts, pants, dresses) and use separate bins for each category. With clear containers and labels, identifying your items is a breeze.
 
+  
+##  Getting Started
+Visit the WardrobeWhiz website by clicking the following URL: WardrobeWhiz.
+
+Navigate to the "all Techniques" section in the menu.
+
+Explore the various all techniques provided on the page, and select the ones that best suit your needs and preferences.
+
+View the examples of clothes orginazing techniques to understand how to apply them in practice.
+
+Implement these techniques in your wardrobe organization to maximize space, keep your clothes neat, and make them easily accessible.
+
+
+
 ## Usage
+To access the WardrobeWhiz website, simply visit the following URL: [WardrobeWhiz.com](https://joannaadermark1.github.io/life-hack/)
+
+You can explore the various tips and tricks for clothing organization on the website. Additionally, there's an optional audio element on the website that provides more information. Users can manually play the audio if desired.
+
+## Contributing
+
+We welcome contributions from the community to make WardrobeWhiz even better! If you have additional clothing organization tips or ideas to share, feel free to contribute to the project. Here's how you can contribute:
+
+1. Fork the repository.
+2. Create a new branch for your contributions.
+3. Make your changes and improvements.
+4. Submit a pull request.
+
+We'll review your contributions and work together to enhance the WardrobeWhiz experience for all users.
 
 Feel free to use this project as a template for your own website or as a reference for creating responsive web pages. You can customize the content, add more sections, or modify the styles to suit your needs.
 
