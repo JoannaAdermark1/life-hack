@@ -19,16 +19,27 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
 
 ## Project Overview
 . Navigation: Utilize the navigation menu to access various sections of the WardrobeWhiz website, including "Home," "About Us," "Sign-Up  "Folding Techniques" " Hanging Tab"  "Label Storage Bin" "Shelf Divider."
+
 . About Us: Learn about the mission and vision of WardrobeWhiz. Discover how we're dedicated to simplifying your life through innovative organization solutions.
+
 . Signup Form: We offer you the opportunity to stay updated with the latest clothing organization hacks. Sign up and receive regular updates in your inbox.
+
 . Sign-Up Form: The main feature of this page is the sign-up form. Users can provide their first name, last name, and email address to join the WardrobeWhiz community.
+
 . Folding Techniques: Learn about different folding techniques that can help you keep your clothes organized, save space, and make them easily accessible.
+
 . Examples: Explore visual examples of clothes folded using these techniques to understand how they can benefit you in your daily life.
+
 . Hanging Technique: Learn about the hanging tab technique and how it can help you create cascading hangers and maximize closet space.
+
 . Examples: Explore visual examples of clothes hung with hanging tabs to understand how this method can help you keep your clothes organized.
+
 . Labeling Technique: Learn about the labeling technique and how it can be a valuable tool in managing your clothes effectively.
+
 . Examples: Explore examples of labeled storage bins and how they can be used to categorize and organize different types of clothing.
+
 . Shelf Divider Techniques: Learn various techniques for using shelf dividers to separate and organize different types of clothing. These techniques can help you maintain an organized drawer and prevent clothes from getting mixed up.
+
 . Shelf Divider Examples: Explore examples of how shelf dividers can be applied in real-life wardrobe situations. These images showcase the effectiveness of this organization method.
 
 
