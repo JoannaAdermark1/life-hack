@@ -95,7 +95,27 @@ I confirmed that the colors and fonts are easy to read.
 ### home mobile
 ![Screenshot 2023-10-22 at 22 41 16](https://github.com/JoannaAdermark1/life-hack/assets/137285482/82801d51-3b16-4ff7-82f2-9eedf0ddf4ba)
 
-## Contributing
+## Deployment
+ The website was build in VScode and deployed to Github 
+by creating Pages using following steps:
+
+Steps:
+Initialize a Git repository 
+
+Open project in VSCode.
+Open the terminal (View -> Terminal).
+Navigate to the project's root directory.
+Run: git init
+git add .
+git commit -m "added commit message here"
+Created a new repository on GitHub:
+Copy the URL of your newly created GitHub repository.
+Go back to VSCode's terminal.
+Link the local repo to the GitHub repo: git remote add origin GITHUB_REPOSITORY_URL
+Push the code to GitHub:
+Push code: git push -u origin main
+
+## Contribution 
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or create a pull request. Your contributions will help me as person come to unsderstan and buld more skills and other people. the project is piblic to everyone.
 
