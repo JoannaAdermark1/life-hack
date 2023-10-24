@@ -67,7 +67,9 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
 
   
 ##  Getting Started
-Visit the WardrobeWhiz website by clicking the following URL: WardrobeWhiz.
+
+Visit the WardrobeWhiz website by clicking the following URL: [WardrobeWhiz] (https://joannaadermark1.github.io/life-hack/)
+
 
 Navigate to the "all Techniques" section in the menu.
 
