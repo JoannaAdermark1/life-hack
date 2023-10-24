@@ -189,8 +189,9 @@ Contributions to this project are welcome. If you have any suggestions, improvem
 
 ## Credits
 Basic structure of and understanding of the abouve the page development taken from code intitute project "love running"
-### Images:
-img used are taken from pexels.com and freepik.com
+
+## Images used:
+imgs used are taken from pexels.com and freepik.com
 
 ## Acknowledgments:
 
