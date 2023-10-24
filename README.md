@@ -17,32 +17,42 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
 - [Contributing](#contributing)
 - [License](#license)
 
-## Project Overview
-- Navigation: Utilize the navigation menu to access various sections of the WardrobeWhiz website, including "Home," "About Us," "Sign-Up  "Folding Techniques" " Hanging Tab"  "Label Storage Bin" "Shelf Divider."
+## Project Overview 
+#### Navigation:
+- Utilize the navigation menu to access various sections of the WardrobeWhiz website, including "Home," "About Us," "Sign-Up  "Folding Techniques" " Hanging Tab"  "Label Storage Bin" "Shelf Divider."
 
-### About Us:
+#### About Us:
 - Learn about the mission and vision of WardrobeWhiz. Discover how we're dedicated to simplifying your life through innovative organization solutions.
 
-### Signup Form:
+#### Signup:
 -  We offer you the opportunity to stay updated with the latest clothing organization hacks. Sign up and receive regular updates in your inbox.
 
-- Sign-Up Form: The main feature of this page is the sign-up form. Users can provide their first name, last name, and email address to join the WardrobeWhiz community.
+#### Sign-Up Form:
+- The main feature of this page is the sign-up form. Users can provide their first name, last name, and email address to join the WardrobeWhiz community.
 
-- Folding Techniques: Learn about different folding techniques that can help you keep your clothes organized, save space, and make them easily accessible.
+#### Folding Techniques:
+- Learn about different folding techniques that can help you keep your clothes organized, save space, and make them easily accessible.
 
-- Examples: Explore visual examples of clothes folded using these techniques to understand how they can benefit you in your daily life.
+#### Examples:
+- Explore visual examples of clothes folded using these techniques to understand how they can benefit you in your daily life.
 
-- Hanging Technique: Learn about the hanging tab technique and how it can help you create cascading hangers and maximize closet space.
+#### Hanging Technique:
+- Learn about the hanging tab technique and how it can help you create cascading hangers and maximize closet space.
 
-- Examples: Explore visual examples of clothes hung with hanging tabs to understand how this method can help you keep your clothes organized.
+#### Examples:
+- Explore visual examples of clothes hung with hanging tabs to understand how this method can help you keep your clothes organized.
 
-- Labeling Technique: Learn about the labeling technique and how it can be a valuable tool in managing your clothes effectively.
+#### Labeling Technique:
+- Learn about the labeling technique and how it can be a valuable tool in managing your clothes effectively.
 
-- Examples: Explore examples of labeled storage bins and how they can be used to categorize and organize different types of clothing.
+#### Examples:
+- Explore examples of labeled storage bins and how they can be used to categorize and organize different types of clothing.
 
-- Shelf Divider Techniques: Learn various techniques for using shelf dividers to separate and organize different types of clothing. These techniques can help you maintain an organized drawer and prevent clothes from getting mixed up.
+#### Shelf Divider Techniques:
+- Learn various techniques for using shelf dividers to separate and organize different types of clothing. These techniques can help you maintain an organized drawer and prevent clothes from getting mixed up.
 
-- Shelf Divider Examples: Explore examples of how shelf dividers can be applied in real-life wardrobe situations. These images showcase the effectiveness of this organization method.
+#### Shelf Divider Examples:
+- Explore examples of how shelf dividers can be applied in real-life wardrobe situations. These images showcase the effectiveness of this organization method.
 
 
 ## Features
@@ -91,21 +101,23 @@ To make changes to the content or styles, edit the HTML and CSS files in the pro
 
  ## UX-Design 
  
- Mobile-First Design: The user experience on mobile devices, start by designing the website layout for smaller screens first. Ensure that the content is legible and well-organized on mobile devices, and then progressively enhance it for larger screens.
+- Mobile-First Design:
+ The user experience on mobile devices, start by designing the website layout for smaller screens first. Ensure that the content is legible and well-organized on mobile devices, and then progressively enhance it for larger screens.
 
-Optimize Images: Compress and optimize the images used on the website to reduce loading times. This will improve the overall user experience, 
+- Optimize Images:
+Compress and optimize the images used on the website to reduce loading times. This improve the overall user experience, 
 
-Accessibility: The website accessible to all users, including those with disabilities. Use semantic HTML elements, provide alt text for images, and ensure proper keyboard navigation.
+- Accessibility: 
+The website accessible to all users, including those with disabilities. Use semantic HTML elements, provide alt text for images, and ensure proper keyboard navigation.
 
-Consistent Navigation: The website Maintain consistent navigation throughout the website. The navigation menu is easy to find and use. 
+- Consistent Navigation:
+The website Maintain consistent navigation throughout the website. The navigation menu is easy to find and use. 
 
-Feedback for Form Submission: If a user submits a form, provide clear feedback indicating whether the submission was successful or if there were errors in the form fields. 
+- Feedback for Form Submission: 
+If a user submits a form, provide clear feedback indicating whether the submission was successful or if there were errors in the form fields. 
 
-Browser Compatibility: Tested the website in multiple web browsers to ensure it works consistently across different platforms. 
-
-Performance Optimization: Optimize your code and assets for performance. Minify CSS and JavaScript files, leverage browser caching, and consider using a Content Delivery Network (CDN) for asset delivery to improve loading times.
-
-Responsive Typography: Implemented responsive typography to adjust font sizes and line spacing based on screen size to ensures that text remains readable on various devices.
+- Browser Compatibility: 
+Tested the website in multiple web browsers to ensure it works consistently across different platforms. 
 
 # Languages Used
 - HTML
@@ -123,6 +135,15 @@ I confirmed that the colors and fonts are easy to read.
 ![Screenshot 2023-10-22 at 21 11 17](https://github.com/JoannaAdermark1/life-hack/assets/137285482/13059a66-978b-4c78-8c3e-3d2a99bc7fe0)
 
 ## Responsiveness
+Images of Homepage responsiveness:
+
+Mobile Screens 375 x 667
+
+Tablet Screen 769 x 1024
+
+Laptop Screen 1024 x 800
+
+Desktop Screen 1920 x 1200
 
 ### aboutus desktop
 ![Screenshot 2023-10-22 at 21 18 38](https://github.com/JoannaAdermark1/life-hack/assets/137285482/56e67ff5-f246-4808-990d-b84a6dc6fa99)
@@ -141,6 +162,10 @@ I confirmed that the colors and fonts are easy to read.
 
 ### home mobile
 ![Screenshot 2023-10-22 at 22 41 16](https://github.com/JoannaAdermark1/life-hack/assets/137285482/82801d51-3b16-4ff7-82f2-9eedf0ddf4ba)
+
+## Browser Testing:
+The website was tested on different browsers, namely: -Google Chrome -Mozilla Firefox -Safari
+
 
 ## Deployment
  The website was build in VScode and deployed to Github 
@@ -165,6 +190,17 @@ Push code: git push -u origin main
 ## Contribution 
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or create a pull request. Your contributions will help me as person come to unsderstan and buld more skills and other people. the project is piblic to everyone.
+
+## Credits
+Basic structure of and understanding of the abouve the page development taken from code intitute project "love running"
+### Images:
+img used are taken from pexels.com and freepik.com
+
+## Acknowledgments:
+
+I would like to express my sincere gratitude to the following for their valuable contributions and support throughout the project:
+freinds Mawejje Ronald, Tobby. my mentor Jubril Akolade, husband Alexander Adermark my fellew code institute student Stjepan Mesaros and slack community.
+
 
 ## License
 
