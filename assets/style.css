@@ -389,4 +389,59 @@ footer {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
     }
+
+    /* Center the folding section content */
+    .folding .Hanging .label .shelfs {
+        text-align: center;
+        margin: 40px 0;
+    }
+
+    /* Style the folding section header */
+    .label .folding .Hanging .shelfs h2 {
+        font-size: 24px;
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    /* Style the images within the folding section */
+    .folding-examples img .Hanging-exmples img .label-exmples img .shelfs-exmples img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 20px auto;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        border-radius: 5px;
+    }
+
+    /* Media query for screens smaller than 768px (e.g., smartphones) */
+    @media screen and (max-width: 768px) {
+        .folding .Hanging .label .shelfs h2 {
+            font-size: 20px;
+
+        }
+
+        .label .folding .Hanging .shelfs {
+            font-size: 16px;
+        }
+
+        .folding-examples img .Hanging-exmples img .label-examples img .shelfs-exmples img {
+            margin: 10px auto;
+        }
+    }
+
+    /* Media query for screens between 768px and 1024px (e.g., tablets) */
+    @media screen and (min-width: 769px) and (max-width: 1024px) {
+        .label .folding .Hanging .shelfsh2 {
+            font-size: 22px;
+        }
+
+        .label .folding .Hanging .shelfs {
+            font-size: 17px;
+        }
+    }
+
+    /* Media query for screens larger than 1024px (e.g., desktops) */
+    @media screen and (min-width: 1025px) {
+        /* Add additional styles for larger screens if needed */
+    }
 }
