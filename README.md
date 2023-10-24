@@ -20,9 +20,11 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
 ## Project Overview
 - Navigation: Utilize the navigation menu to access various sections of the WardrobeWhiz website, including "Home," "About Us," "Sign-Up  "Folding Techniques" " Hanging Tab"  "Label Storage Bin" "Shelf Divider."
 
-- About Us: Learn about the mission and vision of WardrobeWhiz. Discover how we're dedicated to simplifying your life through innovative organization solutions.
+### About Us:
+- Learn about the mission and vision of WardrobeWhiz. Discover how we're dedicated to simplifying your life through innovative organization solutions.
 
-- Signup Form: We offer you the opportunity to stay updated with the latest clothing organization hacks. Sign up and receive regular updates in your inbox.
+### Signup Form:
+-  We offer you the opportunity to stay updated with the latest clothing organization hacks. Sign up and receive regular updates in your inbox.
 
 - Sign-Up Form: The main feature of this page is the sign-up form. Users can provide their first name, last name, and email address to join the WardrobeWhiz community.
 
