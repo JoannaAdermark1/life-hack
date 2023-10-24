@@ -133,7 +133,7 @@ I confirmed that the colors and fonts are easy to read.
 ## Responsiveness
 Images of Homepage responsiveness:
 
-Mobile Screens 375 x 667
+Mobile Screens 480 x 667
 
 Tablet Screen 769 x 1024
 
