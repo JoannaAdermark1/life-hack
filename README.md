@@ -66,10 +66,9 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
 - **Label Storage Bin:** Categorize your clothes by type (e.g., shirts, pants, dresses) and use separate bins for each category. With clear containers and labels, identifying your items is a breeze.
 
   
-##  Getting Started
+##  Getting Started and usage
 
-Visit the WardrobeWhiz website by clicking the following URL: [WardrobeWhiz] (https://joannaadermark1.github.io/life-hack/)
-
+To access the WardrobeWhiz website, simply visit the following URL: [WardrobeWhiz.com](https://joannaadermark1.github.io/life-hack/)
 
 Navigate to the "all Techniques" section in the menu.
 
@@ -78,11 +77,6 @@ Explore the various all techniques provided on the page, and select the ones tha
 View the examples of clothes orginazing techniques to understand how to apply them in practice.
 
 Implement these techniques in your wardrobe organization to maximize space, keep your clothes neat, and make them easily accessible.
-
-
-
-## Usage
-To access the WardrobeWhiz website, simply visit the following URL: [WardrobeWhiz.com](https://joannaadermark1.github.io/life-hack/)
 
 You can explore the various tips and tricks for clothing organization on the website. Additionally, there's an optional audio element on the website that provides more information. Users can manually play the audio if desired.
 
