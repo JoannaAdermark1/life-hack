@@ -133,13 +133,13 @@ I confirmed that the colors and fonts are easy to read.
 ## Responsiveness
 Images of Homepage responsiveness:
 
-Mobile Screens 480 x 667
+Mobile Screens 480 x 576px
 
-Tablet Screen 769 x 1024
+Tablet Screen 769 x 1024 
 
-Laptop Screen 1024 x 800
+Laptop Screen 1024
 
-Desktop Screen 1920 x 1200
+Desktop Screen 1025 x 1200
 
 ### aboutus desktop
 ![Screenshot 2023-10-22 at 21 18 38](https://github.com/JoannaAdermark1/life-hack/assets/137285482/56e67ff5-f246-4808-990d-b84a6dc6fa99)
