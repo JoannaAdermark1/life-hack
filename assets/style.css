@@ -417,7 +417,6 @@ footer {
     @media screen and (max-width: 768px) {
         .folding .Hanging .label .shelfs h2 {
             font-size: 20px;
-
         }
 
         .label .folding .Hanging .shelfs {
@@ -442,6 +441,24 @@ footer {
 
     /* Media query for screens larger than 1024px (e.g., desktops) */
     @media screen and (min-width: 1025px) {
-        /* Add additional styles for larger screens if needed */
+        .label .folding .Hanging .shelfs h2 {
+            font-size: 28px;
+            /* Adjust the font size for larger screens */
+        }
+
+        .label .folding .Hanging .shelfs {
+            font-size: 22px;
+            /* Adjust the font size for larger screens */
+            margin-bottom: 20px;
+            /* Increase the margin for larger screens */
+            margin-bottom: 30px;
+            font-weight: normal;
+        }
+
+        .folding-examples img .Hanging-exmples img .label-examples img .shelfs-exmples img {
+            margin: 30px auto;
+            /* Increase the margin for larger screens */
+            border-radius: 10px;
+        }
     }
 }
