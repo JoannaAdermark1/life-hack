@@ -165,23 +165,34 @@ The website was tested on different browsers, namely: -Google Chrome -Mozilla Fi
 
 ## Deployment
  The website was build in VScode and deployed to Github 
-by creating Pages using following steps:
+ using following steps:
 
 Steps:
 Initialize a Git repository 
 
-Open project in VSCode.
-Open the terminal (View -> Terminal).
-Navigate to the project's root directory.
-Run: git init
-git add .
-git commit -m "added commit message here"
-Created a new repository on GitHub:
-Copy the URL of your newly created GitHub repository.
-Go back to VSCode's terminal.
-Link the local repo to the GitHub repo: git remote add origin GITHUB_REPOSITORY_URL
-Push the code to GitHub:
-Push code: git push -u origin main
+. Open project in VSCode.
+
+. Open the terminal (View -> Terminal).
+
+. Navigate to the project's root directory.
+
+. Run: git init
+
+. git add .
+
+. git commit -m "added commit message here"
+
+. Created a new repository on GitHub:
+
+. Copy the URL of your newly created GitHub repository.
+
+. Go back to VSCode's terminal.
+
+. Link the local repo to the GitHub repo: git remote add origin GITHUB_REPOSITORY_URL
+
+. Push the code to GitHub:
+
+. Push code: git push -u origin main
 
 ## Fix Bugs
 issues 
@@ -194,15 +205,10 @@ Had media quaries bug the website was resposive to different screens
 
  ![Screenshot 2023-10-25 at 21 30 55](https://github.com/JoannaAdermark1/life-hack/assets/137285482/505770ff-6e71-4cfe-90af-eb38b84fec68)
 
-
-
-## Contribution 
-
-Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or create a pull request. Your contributions will help me as person come to unsderstan and buld more skills and other people. the project is piblic to everyone.
+ Had issue trying to commit from vscode to github and it was not working it kept giving errors inthe terminal than i went to main in vscode used the following commands cmd + shift and P to open "Git merge brunch" set to origina/Head then commited 
 
 ## Credits
 Basic structure of and understanding of the page development taken from code intitute project "love running"
-
 
 ## Images used:
 imgs used are taken from pexels.com and freepik.com
@@ -212,6 +218,9 @@ imgs used are taken from pexels.com and freepik.com
 I would like to express my sincere gratitude to the following for their valuable contributions and support throughout the project:
 freinds Mawejje Ronald, Oluwasakin-Tobi. my mentor Jubril Akolade, husband Alexander Adermark my fellew code institute student Stjepan Mesaros and slack community.
 
+## Contribution 
+
+Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or create a pull request. Your contributions will help me as person come to unsderstan and buld more skills and other people. the project is piblic to everyone.
 
 ## License
 
