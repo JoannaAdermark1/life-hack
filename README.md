@@ -133,13 +133,13 @@ I confirmed that the colors and fonts are easy to read.
 ## Responsiveness
 Images of Homepage responsiveness:
 
-Mobile Screens 480 x 667
+Mobile Screens 480 x 576px
 
-Tablet Screen 769 x 1024
+Tablet Screen 769 x 1024 
 
-Laptop Screen 1024 x 800
+Laptop Screen 1024
 
-Desktop Screen 1920 x 1200
+Desktop Screen 1025 x 1200
 
 ### aboutus desktop
 ![Screenshot 2023-10-22 at 21 18 38](https://github.com/JoannaAdermark1/life-hack/assets/137285482/56e67ff5-f246-4808-990d-b84a6dc6fa99)
@@ -183,12 +183,26 @@ Link the local repo to the GitHub repo: git remote add origin GITHUB_REPOSITORY_
 Push the code to GitHub:
 Push code: git push -u origin main
 
+## Fix Bugs
+issues 
+Had media quaries bug the website was resposive to different screens
+ solutions
+ i had to add medai quaries of different screen sizes for small medium and large screen.
+
+ issues 
+ The icons in that footer didn't show at and i solved it by adding the kit.fontawesome for icons.
+
+ ![Screenshot 2023-10-25 at 21 30 55](https://github.com/JoannaAdermark1/life-hack/assets/137285482/505770ff-6e71-4cfe-90af-eb38b84fec68)
+
+
+
 ## Contribution 
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or create a pull request. Your contributions will help me as person come to unsderstan and buld more skills and other people. the project is piblic to everyone.
 
 ## Credits
-Basic structure of and understanding of the abouve the page development taken from code intitute project "love running"
+Basic structure of and understanding of the page development taken from code intitute project "love running"
+
 
 ## Images used:
 imgs used are taken from pexels.com and freepik.com
@@ -196,7 +210,7 @@ imgs used are taken from pexels.com and freepik.com
 ## Acknowledgments:
 
 I would like to express my sincere gratitude to the following for their valuable contributions and support throughout the project:
-freinds Mawejje Ronald, Tobby. my mentor Jubril Akolade, husband Alexander Adermark my fellew code institute student Stjepan Mesaros and slack community.
+freinds Mawejje Ronald, Oluwasakin-Tobi. my mentor Jubril Akolade, husband Alexander Adermark my fellew code institute student Stjepan Mesaros and slack community.
 
 
 ## License
