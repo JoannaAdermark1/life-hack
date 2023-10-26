@@ -118,6 +118,13 @@ Tested the website in multiple web browsers to ensure it works consistently acro
 # Languages Used
 - HTML
 - CSS
+  
+## 404page
+A "404 error page" or "Page Not Found" page, that displayes to users when they attempt to access a URL of the web page that does not exist or cannot be found on a website. The HTTP status code "404" Oops! Page Not Found.
+
+![Screenshot 2023-10-26 at 08 27 34](https://github.com/JoannaAdermark1/life-hack/assets/137285482/b862d527-5ba8-420e-a0ff-3ed901a2ab50)
+
+
 
 # Testing and Responsive Testing
 - I tested the website in different browsers chrome,firefox,safari and i confirm that the results are correct.  
