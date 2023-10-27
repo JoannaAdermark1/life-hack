@@ -38,6 +38,16 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
   
 ![Screenshot 2023-10-27 at 08 33 58](https://github.com/JoannaAdermark1/life-hack/assets/137285482/a3833e66-096a-4b24-9a55-10b849c28a94)
 
+## Features
+
+- **Folding Techniques:** Learn how to keep your clothes neatly folded using the KonMari method and other creative approaches. Efficient storage and space-saving techniques are just a click away.
+
+- **Hanging Tab:** Discover the art of using soda can tabs on your hangers to create cascading hangers. Maximize your closet space and prevent clothes from overlapping.
+
+- **Shelf Divider:** Explore the use of shelf dividers to separate different types of clothing. This simple trick makes it easy to maintain an organized drawer and prevents clothes from getting mixed up.
+
+- **Label Storage Bin:** Categorize your clothes by type (e.g., shirts, pants, dresses) and use separate bins for each category. With clear containers and labels, identifying your items is a breeze.
+- 
 #### Folding Techniques:
 - Learn about different folding techniques that can help you keep your clothes organized, save space, and make them easily accessible.
 
@@ -61,16 +71,6 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
 
 #### Shelf Divider Examples:
 - Explore examples of how shelf dividers can be applied in real-life wardrobe situations. These images showcase the effectiveness of this organization method.
-
-## Features
-
-- **Folding Techniques:** Learn how to keep your clothes neatly folded using the KonMari method and other creative approaches. Efficient storage and space-saving techniques are just a click away.
-
-- **Hanging Tab:** Discover the art of using soda can tabs on your hangers to create cascading hangers. Maximize your closet space and prevent clothes from overlapping.
-
-- **Shelf Divider:** Explore the use of shelf dividers to separate different types of clothing. This simple trick makes it easy to maintain an organized drawer and prevents clothes from getting mixed up.
-
-- **Label Storage Bin:** Categorize your clothes by type (e.g., shirts, pants, dresses) and use separate bins for each category. With clear containers and labels, identifying your items is a breeze.
  
 ##  Getting Started and usage
 
@@ -120,8 +120,6 @@ Tested the website in multiple web browsers to ensure it works consistently acro
 A "404 error page" or "Page Not Found" page, that displayes to users when they attempt to access a URL of the web page that does not exist or cannot be found on a website. The HTTP status code "404" Oops! Page Not Found.
 
 ![Screenshot 2023-10-26 at 08 27 34](https://github.com/JoannaAdermark1/life-hack/assets/137285482/b862d527-5ba8-420e-a0ff-3ed901a2ab50)
-
-
 
 # Testing and Responsive Testing
 - I tested the website in different browsers chrome,firefox,safari and i confirm that the results are correct.  
@@ -199,13 +197,15 @@ Initialize a Git repository
 . Push code: git push -u origin main
 
 ## Fix Bugs
-issues 
+
+. issues 
 Had media quaries bug the website was resposive to different screens
- solutions
+ . solutions
  i had to add medai quaries of different screen sizes for small medium and large screen.
 
- issues 
- The icons in that footer didn't show at and i solved it by adding the kit.fontawesome for icons.
+ . issues: 
+ The icons in that footer didn't show at the bottom 
+ . solution: and i solved it by adding the kit.fontawesome for icons.
 
  ![Screenshot 2023-10-25 at 21 30 55](https://github.com/JoannaAdermark1/life-hack/assets/137285482/505770ff-6e71-4cfe-90af-eb38b84fec68)
 
