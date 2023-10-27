@@ -24,8 +24,11 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
   
 ![Screenshot 2023-10-27 at 08 19 54](https://github.com/JoannaAdermark1/life-hack/assets/137285482/832775c5-e576-4f1d-971a-16172f1849cf)
 
-#### About Us:
+#### About Us page:
 - Learn about the mission and vision of WardrobeWhiz. Discover how we're dedicated to simplifying your life through innovative organization solutions.
+  
+  ![Screenshot 2023-10-27 at 08 43 11](https://github.com/JoannaAdermark1/life-hack/assets/137285482/eb807deb-2a68-4e08-bc7b-5e75ec3dcac0)
+
 
 #### Signup Page:
 -  We offer you the opportunity to stay updated with the latest clothing organization hacks. Sign up and receive regular updates in your inbox.
@@ -59,7 +62,6 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
 #### Shelf Divider Examples:
 - Explore examples of how shelf dividers can be applied in real-life wardrobe situations. These images showcase the effectiveness of this organization method.
 
-
 ## Features
 
 - **Folding Techniques:** Learn how to keep your clothes neatly folded using the KonMari method and other creative approaches. Efficient storage and space-saving techniques are just a click away.
@@ -69,8 +71,7 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
 - **Shelf Divider:** Explore the use of shelf dividers to separate different types of clothing. This simple trick makes it easy to maintain an organized drawer and prevents clothes from getting mixed up.
 
 - **Label Storage Bin:** Categorize your clothes by type (e.g., shirts, pants, dresses) and use separate bins for each category. With clear containers and labels, identifying your items is a breeze.
-
-  
+ 
 ##  Getting Started and usage
 
 To access the WardrobeWhiz website, simply visit the following URL: [WardrobeWhiz.com](https://joannaadermark1.github.io/life-hack/)
@@ -84,15 +85,6 @@ View the examples of clothes orginazing techniques to understand how to apply th
 Implement these techniques in your wardrobe organization to maximize space, keep your clothes neat, and make them easily accessible.
 
 You can explore the various tips and tricks for clothing organization on the website. Additionally, there's an optional audio element on the website that provides more information. Users can manually play the audio if desired.
-
-## Contributing
-
-We welcome contributions from the community to make WardrobeWhiz even better! If you have additional clothing organization tips or ideas to share, feel free to contribute to the project. Here's how you can contribute:
-
-1. Fork the repository.
-2. Create a new branch for your contributions.
-3. Make your changes and improvements.
-4. Submit a pull request.
 
 We'll review your contributions and work together to enhance the WardrobeWhiz experience for all users.
 
@@ -233,6 +225,12 @@ freinds Mawejje Ronald, Oluwasakin-Tobi. my mentor Jubril Akolade, husband Alexa
 ## Contribution 
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or create a pull request. Your contributions will help me as person come to unsderstan and buld more skills and other people. the project is piblic to everyone.
+
+1. Fork the repository.
+2. Create a new branch for your contributions.
+3. Make your changes and improvements.
+4. Submit a pull request.
+
 
 ## License
 
