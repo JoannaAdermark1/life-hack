@@ -20,15 +20,20 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
 ## Project Overview 
 #### Navigation:
 - Utilize the navigation menu to access various sections of the WardrobeWhiz website, including "Home," "About Us," "Sign-Up  "Folding Techniques" " Hanging Tab"  "Label Storage Bin" "Shelf Divider."
+- This selection will allow the user to navigate from page to page.
+  
+![Screenshot 2023-10-27 at 08 19 54](https://github.com/JoannaAdermark1/life-hack/assets/137285482/832775c5-e576-4f1d-971a-16172f1849cf)
 
 #### About Us:
 - Learn about the mission and vision of WardrobeWhiz. Discover how we're dedicated to simplifying your life through innovative organization solutions.
 
-#### Signup:
+#### Signup Page:
 -  We offer you the opportunity to stay updated with the latest clothing organization hacks. Sign up and receive regular updates in your inbox.
 
 #### Sign-Up Form:
 - The main feature of this page is the sign-up form. Users can provide their first name, last name, and email address to join the WardrobeWhiz community.
+  
+![Screenshot 2023-10-27 at 08 33 58](https://github.com/JoannaAdermark1/life-hack/assets/137285482/a3833e66-096a-4b24-9a55-10b849c28a94)
 
 #### Folding Techniques:
 - Learn about different folding techniques that can help you keep your clothes organized, save space, and make them easily accessible.
