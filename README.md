@@ -210,6 +210,13 @@ Had media quaries bug the website was resposive to different screens
  ![Screenshot 2023-10-25 at 21 30 55](https://github.com/JoannaAdermark1/life-hack/assets/137285482/505770ff-6e71-4cfe-90af-eb38b84fec68)
 
  Had issue trying to commit from vscode to github and it was not working it kept giving errors inthe terminal than i went to main in vscode used the following commands cmd + shift and P to open "Git merge brunch" set to origina/Head then commited 
+I had a bug when the menu was not shoiwing on the on small sreens, i had to fix by adding <i class="fa-solid fa-bars"></i> to the html. img added down to show the issue and soluion.
+
+.before
+![Screenshot 2023-10-27 at 21 35 43](https://github.com/JoannaAdermark1/life-hack/assets/137285482/208ed3df-41c4-4194-8a9b-b9a4e4d9f26e)
+
+ .after
+ ![Screenshot 2023-10-28 at 11 23 25](https://github.com/JoannaAdermark1/life-hack/assets/137285482/e17aa3de-83fc-4c57-87b3-ec70ac3e2a63)
 
 ## Credits
 Basic structure of and understanding of the page development taken from code intitute project "love running"
