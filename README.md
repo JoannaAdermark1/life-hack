@@ -24,8 +24,11 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
   
 ![Screenshot 2023-10-27 at 08 19 54](https://github.com/JoannaAdermark1/life-hack/assets/137285482/832775c5-e576-4f1d-971a-16172f1849cf)
 
-#### About Us:
+#### About Us page:
 - Learn about the mission and vision of WardrobeWhiz. Discover how we're dedicated to simplifying your life through innovative organization solutions.
+  
+  ![Screenshot 2023-10-27 at 08 43 11](https://github.com/JoannaAdermark1/life-hack/assets/137285482/eb807deb-2a68-4e08-bc7b-5e75ec3dcac0)
+
 
 #### Signup Page:
 -  We offer you the opportunity to stay updated with the latest clothing organization hacks. Sign up and receive regular updates in your inbox.
@@ -35,6 +38,16 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
   
 ![Screenshot 2023-10-27 at 08 33 58](https://github.com/JoannaAdermark1/life-hack/assets/137285482/a3833e66-096a-4b24-9a55-10b849c28a94)
 
+## Features
+
+- **Folding Techniques:** Learn how to keep your clothes neatly folded using the KonMari method and other creative approaches. Efficient storage and space-saving techniques are just a click away.
+
+- **Hanging Tab:** Discover the art of using soda can tabs on your hangers to create cascading hangers. Maximize your closet space and prevent clothes from overlapping.
+
+- **Shelf Divider:** Explore the use of shelf dividers to separate different types of clothing. This simple trick makes it easy to maintain an organized drawer and prevents clothes from getting mixed up.
+
+- **Label Storage Bin:** Categorize your clothes by type (e.g., shirts, pants, dresses) and use separate bins for each category. With clear containers and labels, identifying your items is a breeze.
+- 
 #### Folding Techniques:
 - Learn about different folding techniques that can help you keep your clothes organized, save space, and make them easily accessible.
 
@@ -58,19 +71,7 @@ Welcome to the WardrobeWhiz website! WardrobeWhiz is a platform dedicated to hel
 
 #### Shelf Divider Examples:
 - Explore examples of how shelf dividers can be applied in real-life wardrobe situations. These images showcase the effectiveness of this organization method.
-
-
-## Features
-
-- **Folding Techniques:** Learn how to keep your clothes neatly folded using the KonMari method and other creative approaches. Efficient storage and space-saving techniques are just a click away.
-
-- **Hanging Tab:** Discover the art of using soda can tabs on your hangers to create cascading hangers. Maximize your closet space and prevent clothes from overlapping.
-
-- **Shelf Divider:** Explore the use of shelf dividers to separate different types of clothing. This simple trick makes it easy to maintain an organized drawer and prevents clothes from getting mixed up.
-
-- **Label Storage Bin:** Categorize your clothes by type (e.g., shirts, pants, dresses) and use separate bins for each category. With clear containers and labels, identifying your items is a breeze.
-
-  
+ 
 ##  Getting Started and usage
 
 To access the WardrobeWhiz website, simply visit the following URL: [WardrobeWhiz.com](https://joannaadermark1.github.io/life-hack/)
@@ -84,15 +85,6 @@ View the examples of clothes orginazing techniques to understand how to apply th
 Implement these techniques in your wardrobe organization to maximize space, keep your clothes neat, and make them easily accessible.
 
 You can explore the various tips and tricks for clothing organization on the website. Additionally, there's an optional audio element on the website that provides more information. Users can manually play the audio if desired.
-
-## Contributing
-
-We welcome contributions from the community to make WardrobeWhiz even better! If you have additional clothing organization tips or ideas to share, feel free to contribute to the project. Here's how you can contribute:
-
-1. Fork the repository.
-2. Create a new branch for your contributions.
-3. Make your changes and improvements.
-4. Submit a pull request.
 
 We'll review your contributions and work together to enhance the WardrobeWhiz experience for all users.
 
@@ -128,8 +120,6 @@ Tested the website in multiple web browsers to ensure it works consistently acro
 A "404 error page" or "Page Not Found" page, that displayes to users when they attempt to access a URL of the web page that does not exist or cannot be found on a website. The HTTP status code "404" Oops! Page Not Found.
 
 ![Screenshot 2023-10-26 at 08 27 34](https://github.com/JoannaAdermark1/life-hack/assets/137285482/b862d527-5ba8-420e-a0ff-3ed901a2ab50)
-
-
 
 # Testing and Responsive Testing
 - I tested the website in different browsers chrome,firefox,safari and i confirm that the results are correct.  
@@ -207,17 +197,26 @@ Initialize a Git repository
 . Push code: git push -u origin main
 
 ## Fix Bugs
-issues 
+
+. issues 
 Had media quaries bug the website was resposive to different screens
- solutions
+ . solutions
  i had to add medai quaries of different screen sizes for small medium and large screen.
 
- issues 
- The icons in that footer didn't show at and i solved it by adding the kit.fontawesome for icons.
+ . issues: 
+ The icons in that footer didn't show at the bottom 
+ . solution: and i solved it by adding the kit.fontawesome for icons.
 
  ![Screenshot 2023-10-25 at 21 30 55](https://github.com/JoannaAdermark1/life-hack/assets/137285482/505770ff-6e71-4cfe-90af-eb38b84fec68)
 
  Had issue trying to commit from vscode to github and it was not working it kept giving errors inthe terminal than i went to main in vscode used the following commands cmd + shift and P to open "Git merge brunch" set to origina/Head then commited 
+I had a bug when the menu was not shoiwing on the on small sreens, i had to fix by adding <i class="fa-solid fa-bars"></i> to the html. img added down to show the issue and soluion.
+
+.before
+![Screenshot 2023-10-27 at 21 35 43](https://github.com/JoannaAdermark1/life-hack/assets/137285482/208ed3df-41c4-4194-8a9b-b9a4e4d9f26e)
+
+ .after
+ ![Screenshot 2023-10-28 at 11 23 25](https://github.com/JoannaAdermark1/life-hack/assets/137285482/e17aa3de-83fc-4c57-87b3-ec70ac3e2a63)
 
 ## Credits
 Basic structure of and understanding of the page development taken from code intitute project "love running"
@@ -233,6 +232,12 @@ freinds Mawejje Ronald, Oluwasakin-Tobi. my mentor Jubril Akolade, husband Alexa
 ## Contribution 
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or create a pull request. Your contributions will help me as person come to unsderstan and buld more skills and other people. the project is piblic to everyone.
+
+1. Fork the repository.
+2. Create a new branch for your contributions.
+3. Make your changes and improvements.
+4. Submit a pull request.
+
 
 ## License
 
