@@ -2,16 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
-/* Asterisk wildcard selector to override default styles added by the browser */
-* .videosection {
-    float: right;
-    margin-left: 915px;
-    margin-top: -335px;
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
 /* General styles */
 body {
     min-height: 100vh;
@@ -52,6 +42,8 @@ header a {
     color: inherit;
 }
 
+/* navigation links */
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -62,23 +54,6 @@ header a {
 
 #menu>li {
     margin-bottom: 1em;
-}
-
-/* Show the menu on small screens (e.g., mobile) */
-@media screen and (max-width: 767px) {
-    #menu {
-        display: block;
-        font-size: 16px;
-        margin-bottom: 10px;
-    }
-
-    /* Optional: Style the menu items for better mobile readability */
-    #menu li {
-        margin-bottom: 10px;
-        /* Adjust spacing between menu items */
-        font-size: 16px;
-
-    }
 }
 
 .active {
